@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1420202948 source:c:\users\casper\desktop\codeblocks\e1813732_hw3\main.cpp
+	<iostream>
+	"character.cpp"
+	<algorithm>
+	"stdlib.h"
+
+1419955380 c:\users\casper\desktop\codeblocks\e1813732_hw3\character.cpp
+	"character.h"
+	"iostream"
+
+1419974183 c:\users\casper\desktop\codeblocks\e1813732_hw3\character.h
+

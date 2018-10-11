@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1418470002 source:d:\lessons\4th year\ee441\hw2\easyeverywhere\main.cpp
+	"ee.cpp"
+	<iostream>
+	<string>
+	<sstream>
+
+1418474004 d:\lessons\4th year\ee441\hw2\easyeverywhere\ee.cpp
+	"ee.h"
+	<stdlib.h>
+	<math.h>
+	<climits>
+	<string.h>
+	<stdio.h>
+
+1418470493 d:\lessons\4th year\ee441\hw2\easyeverywhere\ee.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+
+1418470558 source:d:\lessons\4th year\ee441\hw2\easyeverywhere\ee.cpp
+	"ee.h"
+	<stdlib.h>
+	<math.h>
+	<climits>
+	<string.h>
+	<stdio.h>
+

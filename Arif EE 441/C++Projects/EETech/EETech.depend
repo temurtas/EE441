@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1415550728 source:c:\users\hasansemih\documents\c++projects\eetech\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+

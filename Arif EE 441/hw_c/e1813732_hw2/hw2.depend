@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1418340312 source:c:\users\casper\desktop\codeblocks\hw2\main.cpp
+	<iostream>
+	"eeAircraft.cpp"
+
+1418340268 c:\users\casper\desktop\codeblocks\hw2\eeaircraft.cpp
+	"eeAircraft.h"
+
+1418340264 c:\users\casper\desktop\codeblocks\hw2\eeaircraft.h
+	"eeCapsule.cpp"
+
+1418340159 c:\users\casper\desktop\codeblocks\hw2\eecapsule.cpp
+	"eeCapsule.h"
+
+1418340162 c:\users\casper\desktop\codeblocks\hw2\eecapsule.h
+	<string>
+

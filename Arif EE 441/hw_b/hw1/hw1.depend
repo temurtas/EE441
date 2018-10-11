@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1415572084 source:c:\cpp\hw1\main.cpp
+	<iostream>
+	<ElectronicProduct.h>
+	<fstream>
+	<cstdlib>
+
+1415571675 source:c:\cpp\hw1\src\electronicproduct.cpp
+	"ElectronicProduct.h"
+	<iostream>
+
+1415571241 c:\cpp\hw1\include\electronicproduct.h
+	<string>
+

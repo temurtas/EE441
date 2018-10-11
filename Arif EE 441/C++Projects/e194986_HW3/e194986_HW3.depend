@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1420320599 source:c:\users\hasansemih\documents\c++projects\ee441hw3\gamebase.cpp
+	"GameBase.h"
+	"Player.h"
+	<stdlib.h>
+	<iostream>
+	<math.h>
+
+1420320597 c:\users\hasansemih\documents\c++projects\ee441hw3\gamebase.h
+	"Player.h"
+	<vector>
+
+1420321092 c:\users\hasansemih\documents\c++projects\ee441hw3\player.h
+	<vector>
+
+1420320998 source:c:\users\hasansemih\documents\c++projects\ee441hw3\player.cpp
+	<iostream>
+	"Player.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1418591646 source:c:\cpp\hw2\flight\main.cpp
+	<iostream>
+	<ee.h>
+	<string>
+
+1418591798 source:c:\cpp\hw2\flight\src\ee.cpp
+	"ee.h"
+
+1418591669 c:\cpp\hw2\flight\include\ee.h
+	<iostream>
+	<string.h>
+

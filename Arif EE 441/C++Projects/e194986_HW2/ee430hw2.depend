@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1418605516 source:c:\users\hasansemih\documents\c++projects\ee430hw2\main.cpp
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	"ee.h"
+
+1418605497 c:\users\hasansemih\documents\c++projects\ee430hw2\ee.h
+	"ee.h"
+	<string>
+	<sstream>
+	<iostream>
+
+1418605506 source:c:\users\hasansemih\documents\c++projects\ee430hw2\ee.cpp
+	"ee.h"
+	<string>
+	<sstream>
+	<iostream>
+

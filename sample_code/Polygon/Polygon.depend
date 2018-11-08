@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1476357736 source:c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\sample_code\polygon\main.cpp
+	"polygon.h"
+
+1541527144 c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\sample_code\polygon\polygon.h
+	"stdio.h"
+	"iostream"
+	"stdlib.h"
+

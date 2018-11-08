@@ -5,5 +5,5 @@ helloWorld::helloWorld(){
 }
 
 void helloWorld::printHello(void){
-    cout << "Hello world!" << endl;
+    cout << "Hi Hello world!" << endl;
 }

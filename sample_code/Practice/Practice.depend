@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1541597766 source:c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\sample_code\practice\main.cpp
+	<iostream>
+	"MyFUN.cpp"
+
+1541597679 source:c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\sample_code\practice\myfun.cpp
+	<iostream>
+
+1541597679 c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\sample_code\practice\myfun.cpp
+	<iostream>
+

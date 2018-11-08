@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1541528253 source:c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\sample_code\date\main.cpp
+	"Date.h"
+
+1541526852 c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\sample_code\date\date.h
+	<iostream>
+	<string>
+

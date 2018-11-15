@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1541859596 source:c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\hw1\graph_traversals\main.cpp
+	<iostream>
+	"Stack.h"
+	"Queue.h"
+
+1541864682 c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\hw1\graph_traversals\include\stack.h
+	<iostream>
+	<stdlib.h>
+
+1541864711 c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\hw1\graph_traversals\include\queue.h
+	<iostream>
+	<stdlib.h>
+
+1541865013 source:c:\users\erdem\desktop\yeni klasör\graph_traversals\main.cpp
+	<iostream>
+	"./include/Stack.h"
+	"./include/Queue.h"
+
+1541864864 c:\users\erdem\desktop\yeni klasör\graph_traversals\include\stack.h
+	<iostream>
+	<stdlib.h>
+
+1541865207 c:\users\erdem\desktop\yeni klasör\graph_traversals\include\queue.h
+	<iostream>
+	<stdlib.h>
+
+1541865325 source:c:\users\erdem\desktop\yeni klasör\graph_traversals\src\stack.cpp
+	"Stack.h"
+
+1541865013 source:c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\hw1\graph_traversals2\main.cpp
+	<iostream>
+	"./include/Stack.h"
+	"./include/Queue.h"
+
+1541864864 c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\hw1\graph_traversals2\include\stack.h
+	<iostream>
+	<stdlib.h>
+
+1541865207 c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\hw1\graph_traversals2\include\queue.h
+	<iostream>
+	<stdlib.h>
+
+1541865378 source:c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\hw1\graph_traversals2\src\queue.cpp
+	"Queue.h"
+
+1541865325 source:c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\hw1\graph_traversals2\src\stack.cpp
+	"Stack.h"
+

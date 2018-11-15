@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1541150294 source:c:\users\erdem\desktop\all-projects-ws\ee441-hws\e216741_hw1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"./include/BFT_Search.h"
+	"./include/DFT_Search.h"
+	"./include/Stack.h"
+	"./include/Queue.h"
+
+1541148353 c:\users\erdem\desktop\all-projects-ws\ee441-hws\e216741_hw1\include\stack.h
+	<iostream>
+	<stdlib.h>
+
+1540925938 c:\users\erdem\desktop\all-projects-ws\ee441-hws\e216741_hw1\include\queue.h
+	<iostream>
+	<stdlib.h>
+
+1541148953 c:\users\erdem\desktop\all-projects-ws\ee441-hws\e216741_hw1\include\bft_search.h
+	<string>
+
+1541765116 source:c:\users\erdem\desktop\all-projects-ws\ee441-hws\e216741_hw1\src\bft_search.cpp
+	"BFT_Search.h"
+	"Queue.h"
+	"Stack.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1541149160 source:c:\users\erdem\desktop\all-projects-ws\ee441-hws\e216741_hw1\src\dft_search.cpp
+	"DFT_Search.h"
+	"Queue.h"
+	"Stack.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1541147742 c:\users\erdem\desktop\all-projects-ws\ee441-hws\e216741_hw1\include\dft_search.h
+	<string>
+
+1541150294 source:c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\e216741_hw1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"./include/BFT_Search.h"
+	"./include/DFT_Search.h"
+	"./include/Stack.h"
+	"./include/Queue.h"
+
+1541148953 c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\e216741_hw1\include\bft_search.h
+	<string>
+
+1541147742 c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\e216741_hw1\include\dft_search.h
+	<string>
+
+1541148353 c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\e216741_hw1\include\stack.h
+	<iostream>
+	<stdlib.h>
+
+1540925938 c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\e216741_hw1\include\queue.h
+	<iostream>
+	<stdlib.h>
+
+1541765116 source:c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\e216741_hw1\src\bft_search.cpp
+	"BFT_Search.h"
+	"Queue.h"
+	"Stack.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1541149160 source:c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\e216741_hw1\src\dft_search.cpp
+	"DFT_Search.h"
+	"Queue.h"
+	"Stack.h"
+	<iostream>
+	<fstream>
+	<string>
+

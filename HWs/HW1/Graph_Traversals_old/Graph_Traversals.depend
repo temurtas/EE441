@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1541859596 source:c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\hw1\graph_traversals\main.cpp
+	<iostream>
+	"Stack.h"
+	"Queue.h"
+
+1541864864 c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\hw1\graph_traversals\include\stack.h
+	<iostream>
+	<stdlib.h>
+
+1541864873 c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\hw1\graph_traversals\include\queue.h
+	<iostream>
+	<stdlib.h>
+
+1541864883 source:c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\hw1\graph_traversals\src\queue.cpp
+	"Queue.h"
+
+1541864869 source:c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\hw1\graph_traversals\src\stack.cpp
+	"Stack.h"
+

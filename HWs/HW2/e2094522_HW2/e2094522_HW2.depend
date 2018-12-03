@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1543803949 source:c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\hw2\e2094522_hw2\main.cpp
+	<iostream>
+	"./include/link.h"
+	"./include/node.h"
+	"./include/PQ.h"
+
+1543803978 c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\hw2\e2094522_hw2\include\link.h
+	<iostream>
+	<cstdlib>
+	"node.h"
+
+1543003059 c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\hw2\e2094522_hw2\include\node.h
+
+1543003060 c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\hw2\e2094522_hw2\include\pq.h
+	"link.h"
+

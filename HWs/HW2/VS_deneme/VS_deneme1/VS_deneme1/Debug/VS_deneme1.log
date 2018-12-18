@@ -1,0 +1,22 @@
+﻿  VS_deneme1.cpp
+c:\users\halil temurtaş\desktop\ekstra\7th semester\ee441\hws\hw2\vs_deneme\vs_deneme1\vs_deneme1\vs_deneme1.cpp(12): error C2065: 'cout': bildirimi yapılmamış tanımlayıcı
+c:\users\halil temurtaş\desktop\ekstra\7th semester\ee441\hws\hw2\vs_deneme\vs_deneme1\vs_deneme1\vs_deneme1.cpp(12): error C2065: 'endl': bildirimi yapılmamış tanımlayıcı
+c:\users\halil temurtaş\desktop\ekstra\7th semester\ee441\hws\hw2\vs_deneme\vs_deneme1\vs_deneme1\vs_deneme1.cpp(15): error C2065: 'LinkedList': bildirimi yapılmamış tanımlayıcı
+c:\users\halil temurtaş\desktop\ekstra\7th semester\ee441\hws\hw2\vs_deneme\vs_deneme1\vs_deneme1\vs_deneme1.cpp(15): error C2062: 'int' türü beklenmiyor
+c:\users\halil temurtaş\desktop\ekstra\7th semester\ee441\hws\hw2\vs_deneme\vs_deneme1\vs_deneme1\vs_deneme1.cpp(16): error C2065: 'PriorityQueue': bildirimi yapılmamış tanımlayıcı
+c:\users\halil temurtaş\desktop\ekstra\7th semester\ee441\hws\hw2\vs_deneme\vs_deneme1\vs_deneme1\vs_deneme1.cpp(16): error C2062: 'int' türü beklenmiyor
+c:\users\halil temurtaş\desktop\ekstra\7th semester\ee441\hws\hw2\vs_deneme\vs_deneme1\vs_deneme1\vs_deneme1.cpp(18): error C2065: 'Halil': bildirimi yapılmamış tanımlayıcı
+c:\users\halil temurtaş\desktop\ekstra\7th semester\ee441\hws\hw2\vs_deneme\vs_deneme1\vs_deneme1\vs_deneme1.cpp(19): error C2065: 'Halil': bildirimi yapılmamış tanımlayıcı
+c:\users\halil temurtaş\desktop\ekstra\7th semester\ee441\hws\hw2\vs_deneme\vs_deneme1\vs_deneme1\vs_deneme1.cpp(20): error C2065: 'Halil2': bildirimi yapılmamış tanımlayıcı
+c:\users\halil temurtaş\desktop\ekstra\7th semester\ee441\hws\hw2\vs_deneme\vs_deneme1\vs_deneme1\vs_deneme1.cpp(21): error C2065: 'Halil2': bildirimi yapılmamış tanımlayıcı
+c:\users\halil temurtaş\desktop\ekstra\7th semester\ee441\hws\hw2\vs_deneme\vs_deneme1\vs_deneme1\vs_deneme1.cpp(22): error C2065: 'Halil2': bildirimi yapılmamış tanımlayıcı
+c:\users\halil temurtaş\desktop\ekstra\7th semester\ee441\hws\hw2\vs_deneme\vs_deneme1\vs_deneme1\vs_deneme1.cpp(23): error C2065: 'Halil2': bildirimi yapılmamış tanımlayıcı
+c:\users\halil temurtaş\desktop\ekstra\7th semester\ee441\hws\hw2\vs_deneme\vs_deneme1\vs_deneme1\vs_deneme1.cpp(24): error C2065: 'Halil2': bildirimi yapılmamış tanımlayıcı
+c:\users\halil temurtaş\desktop\ekstra\7th semester\ee441\hws\hw2\vs_deneme\vs_deneme1\vs_deneme1\vs_deneme1.cpp(25): error C2065: 'Halil2': bildirimi yapılmamış tanımlayıcı
+c:\users\halil temurtaş\desktop\ekstra\7th semester\ee441\hws\hw2\vs_deneme\vs_deneme1\vs_deneme1\vs_deneme1.cpp(26): error C2065: 'Halil': bildirimi yapılmamış tanımlayıcı
+c:\users\halil temurtaş\desktop\ekstra\7th semester\ee441\hws\hw2\vs_deneme\vs_deneme1\vs_deneme1\vs_deneme1.cpp(27): error C2065: 'Halil': bildirimi yapılmamış tanımlayıcı
+c:\users\halil temurtaş\desktop\ekstra\7th semester\ee441\hws\hw2\vs_deneme\vs_deneme1\vs_deneme1\vs_deneme1.cpp(28): error C2065: 'Halil': bildirimi yapılmamış tanımlayıcı
+c:\users\halil temurtaş\desktop\ekstra\7th semester\ee441\hws\hw2\vs_deneme\vs_deneme1\vs_deneme1\vs_deneme1.cpp(29): error C2065: 'Halil': bildirimi yapılmamış tanımlayıcı
+c:\users\halil temurtaş\desktop\ekstra\7th semester\ee441\hws\hw2\vs_deneme\vs_deneme1\vs_deneme1\vs_deneme1.cpp(30): error C2065: 'Halil2': bildirimi yapılmamış tanımlayıcı
+c:\users\halil temurtaş\desktop\ekstra\7th semester\ee441\hws\hw2\vs_deneme\vs_deneme1\vs_deneme1\vs_deneme1.cpp(31): error C2065: 'cout': bildirimi yapılmamış tanımlayıcı
+c:\users\halil temurtaş\desktop\ekstra\7th semester\ee441\hws\hw2\vs_deneme\vs_deneme1\vs_deneme1\vs_deneme1.cpp(31): error C2065: 'Halil2': bildirimi yapılmamış tanımlayıcı

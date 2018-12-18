@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1543956229 source:c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\hw2\e2094522_hw2\e2094522_hw2\main.cpp
+	<iostream>
+	"include/LinkedList.h"
+	"include/Node.h"
+	"include/PriorityQueue.h"
+
+1544178226 c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\hw2\e2094522_hw2\e2094522_hw2\include\linkedlist.h
+	<iostream>
+	<cstdlib>
+	"node.h"
+
+1543003059 c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\hw2\e2094522_hw2\e2094522_hw2\include\node.h
+
+1543956889 c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\hw2\e2094522_hw2\e2094522_hw2\include\priorityqueue.h
+	"LinkedList.h"
+

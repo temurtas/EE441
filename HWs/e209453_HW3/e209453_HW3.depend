@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\hw2\e2094522_hw2\e2094522_hw2\e209453_hw3\main.cpp
+	<iostream>
+
+1546373883 source:c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\e209453_hw3\main.cpp
+	<iostream>
+	"treenode.h"
+	"bstree.h"
+
+1546269404 c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\e209453_hw3\treenode.h
+
+1546374462 c:\users\halil temurtaþ\desktop\ekstra\7th semester\ee441\hws\e209453_hw3\bstree.h
+	<iostream>
+	<cstdlib>
+	"treenode.h"
+

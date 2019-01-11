@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1543430066 source:c:\users\erdem\desktop\all-projects-ws\ee441-hws\trials\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"./include/Stack.h"
+	"./include/Queue.h"
+
+1540736783 source:c:\users\erdem\desktop\all-projects-ws\ee441-hws\trials\src\stack.cpp
+	"Stack.h"
+	<iostream>
+	<stdlib.h>
+
+1540745156 c:\users\erdem\desktop\all-projects-ws\ee441-hws\trials\include\stack.h
+	<iostream>
+	<stdlib.h>
+
+1540753718 c:\users\erdem\desktop\all-projects-ws\ee441-hws\trials\include\queue.h
+	<iostream>
+	<stdlib.h>
+

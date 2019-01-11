@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540141701 source:c:\users\erdem\desktop\all-projects-ws\ee441-hws\problem-a\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1546211166 source:c:\users\erdem\desktop\all-projects-ws\ee441-hws\e216741_hw3\main.cpp
+	<iostream>
+	"bstree.h"
+
+1546211181 c:\users\erdem\desktop\all-projects-ws\ee441-hws\e216741_hw3\bstree.h
+	<iostream>
+	<cstdlib>
+	"treenode.h"
+
+1545333741 c:\users\erdem\desktop\all-projects-ws\ee441-hws\e216741_hw3\treenode.h
+
